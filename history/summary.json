@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/keeper-mainnet.herokuapp.com.ico",
     "slug": "bsc-price-feed",
     "status": "up",
-    "uptime": "3.03%",
-    "uptimeDay": "3.03%",
-    "uptimeWeek": "3.03%",
-    "uptimeMonth": "3.03%",
-    "uptimeYear": "3.03%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 235,
     "timeDay": 235,
     "timeWeek": 235,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {
-      "2022-12-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BSC farm fund",
@@ -61,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/keeper-mainnet.herokuapp.com.ico",
     "slug": "bsc-farm-fund",
     "status": "up",
-    "uptime": "2.29%",
-    "uptimeDay": "2.29%",
-    "uptimeWeek": "2.29%",
-    "uptimeMonth": "2.29%",
-    "uptimeYear": "2.29%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 129,
     "timeWeek": 129,
     "timeMonth": 129,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2022-12-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Testnet keeper",
