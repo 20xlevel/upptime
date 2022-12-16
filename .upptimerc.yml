@@ -3,19 +3,29 @@ owner: 20xlevel # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
+  - name: BSC keeper
+    url: https://keeper-mainnet.herokuapp.com
+  - name: BSC keeper balance
+    url: https://keeper-mainnet.herokuapp.com/health/executor
+  - name: BSC price feed
+    url: https://keeper-mainnet.herokuapp.com/health/price-feed
+  - name: BSC farm fund
+    url: https://keeper-mainnet.herokuapp.com/health/master-chef
+
   - name: Testnet keeper
     url: https://keeper-test-2.herokuapp.com
   - name: Testnet keeper balance
     url: https://keeper-test-2.herokuapp.com/health/executor
   - name: Testnet price feed
-    url: https://keeper-test-2.herokuapp.com/heatlh/price-feed
+    url: https://keeper-test-2.herokuapp.com/health/price-feed
   - name: Testnet farm fund
-    url: https://keeper-test-2.herokuapp.com/heatlh/master-chef
+    url: https://keeper-test-2.herokuapp.com/health/master-chef
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  theme: dark
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
