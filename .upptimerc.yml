@@ -10,7 +10,7 @@ sites:
   - name: BSC price feed
     url: https://keeper-mainnet.herokuapp.com/health/price-feed
   - name: BSC farm fund
-    url: https://keeper-mainnet.herokuapp.com/health/master-chef
+    url: https://keeper-mainnet.herokuapp.com/health/level-master
 
   - name: Testnet keeper
     url: https://keeper-test-2.herokuapp.com
@@ -19,7 +19,7 @@ sites:
   - name: Testnet price feed
     url: https://keeper-test-2.herokuapp.com/health/price-feed
   - name: Testnet farm fund
-    url: https://keeper-test-2.herokuapp.com/health/master-chef
+    url: https://keeper-test-2.herokuapp.com/health/level-master
 
 workflowSchedule:
   graphs: "0 0 * * *"
