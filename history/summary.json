@@ -40,19 +40,19 @@
     "url": "https://keeper-mainnet.herokuapp.com/health/price-feed",
     "icon": "https://icons.duckduckgo.com/ip3/keeper-mainnet.herokuapp.com.ico",
     "slug": "bsc-price-feed",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 219,
-    "timeDay": 194,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "97.51%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "97.51%",
+    "time": 207,
+    "timeDay": 179,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {
-      "2022-12-17": 0
+      "2022-12-17": 37
     }
   },
   {
@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/keeper-test-2.herokuapp.com.ico",
     "slug": "testnet-price-feed",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "98.32%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
     "time": 234,
     "timeDay": 218,
     "timeWeek": 234,
@@ -146,7 +146,7 @@
     "timeMonth": 173,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2022-12-17": 718,
+      "2022-12-17": 755,
       "2022-12-16": 761
     }
   }
