@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.level.finance.ico",
     "slug": "price-api",
     "status": "up",
-    "uptime": "97.80%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "97.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 537,
     "timeDay": 537,
     "timeWeek": 537,
     "timeMonth": 537,
     "timeYear": 537,
-    "dailyMinutesDown": {
-      "2022-12-17": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BSC keeper",
@@ -61,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/keeper-mainnet.herokuapp.com.ico",
     "slug": "bsc-price-feed",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.32%",
     "uptimeDay": "97.42%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "98.27%",
-    "uptimeYear": "98.27%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
     "time": 210,
     "timeDay": 194,
     "timeWeek": 210,
@@ -135,11 +133,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/keeper-test-2.herokuapp.com.ico",
     "slug": "testnet-price-feed",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 234,
     "timeDay": 234,
     "timeWeek": 234,
@@ -166,7 +164,8 @@
     "timeMonth": 186,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2022-12-17": 1411,
+      "2022-12-18": 33,
+      "2022-12-17": 1440,
       "2022-12-16": 761
     }
   }
