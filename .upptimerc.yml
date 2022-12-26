@@ -21,6 +21,8 @@ sites:
   - name: Testnet farm fund
     url: https://keeper-test-2.herokuapp.com/health/level-master
 
+runner: "[self-hosted, linux, ARM64]"
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
@@ -38,8 +40,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/level-fi/assets/main/LVL.png
   name: LevelFinance
-  introTitle: "A Decentralized Perpetual Exchange with Functional Risk Management and Innovative Liquidity Solutions."
-  introMessage: 
+  introTitle: LevelFinance
+  introMessage: "A Decentralized Perpetual Exchange with Functional Risk Management and Innovative Liquidity Solutions."
   navbar:
     - title: LevelFinance Status
       href: /
