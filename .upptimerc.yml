@@ -21,7 +21,7 @@ sites:
   - name: Testnet farm fund
     url: https://keeper-test-2.herokuapp.com/health/level-master
 
-runner: "[self-hosted, linux, ARM64]"
+runner: "[self-hosted, linux, x64"
 
 workflowSchedule:
   graphs: "0 0 * * *"
