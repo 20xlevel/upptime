@@ -13,6 +13,11 @@ sites:
     url: https://keeper-mainnet.herokuapp.com/health/level-master
   - name: AR balance
     url: https://api.level.finance/health/arbalance
+  
+  - name: Terminal API
+    url: https://terminal.level.finance/health
+  - name: Terminal Worker
+    url: https://terminal.level.finance/worker/health
 
   - name: Testnet keeper balance
     url: https://keeper-test-2.herokuapp.com/health/executor
