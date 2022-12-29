@@ -1,7 +1,7 @@
 url: https://keeper-test-2.herokuapp.com/health/price-feed
-status: down
-code: 503
-responseTime: 296
-lastUpdated: 2022-12-29T09:09:44.240Z
+status: up
+code: 200
+responseTime: 187
+lastUpdated: 2022-12-29T09:37:27.107Z
 startTime: Fri Dec 16 2022 11:36:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
