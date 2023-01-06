@@ -15,9 +15,9 @@ sites:
     url: https://api.level.finance/health/arbalance
   
   - name: Terminal API
-    url: https://terminal.level.finance/health
+    url: https://terminal.level.finance/v101/health
   - name: Terminal Worker
-    url: https://terminal.level.finance/worker/health
+    url: https://terminal.level.finance/v101/worker/health
 
   - name: Testnet keeper balance
     url: https://keeper-test-2.herokuapp.com/health/executor
