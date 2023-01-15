@@ -16,7 +16,9 @@ sites:
   - name: BSC farm fund
     url: https://keeper-mainnet.herokuapp.com/health/level-master
   - name: AR balance
-    url: https://api.level.finance/health/arbalance
+    url: https://api.level.finance/health/arbalance 
+  - name: Order expire rate
+    url: https://keeper-mainnet.herokuapp.com/health/expire-rate
   
   - name: Terminal API
     url: https://terminal.level.finance/v101/health
