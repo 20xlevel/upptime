@@ -1,7 +1,7 @@
 url: https://keeper-mainnet.herokuapp.com/health/expire-rate
-status: down
-code: 400
-responseTime: 282
-lastUpdated: 2023-01-15T15:34:19.844Z
+status: up
+code: 200
+responseTime: 381
+lastUpdated: 2023-01-15T17:17:38.503Z
 startTime: Sun Jan 15 2023 11:17:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
