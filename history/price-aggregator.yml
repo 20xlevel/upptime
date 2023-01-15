@@ -1,7 +1,7 @@
 url: http://api.level.finance/health/aggregator
-status: down
-code: 400
-responseTime: 146
-lastUpdated: 2023-01-15T20:27:47.452Z
+status: up
+code: 200
+responseTime: 163
+lastUpdated: 2023-01-15T20:39:49.767Z
 startTime: Thu Jan 12 2023 14:40:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
