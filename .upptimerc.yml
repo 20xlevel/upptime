@@ -27,10 +27,6 @@ sites:
 
   - name: Testnet keeper balance
     url: https://keeper-test-2.herokuapp.com/health/executor
-  - name: Testnet price feed
-    url: https://keeper-test-2.herokuapp.com/health/price-feed
-  - name: Testnet farm fund
-    url: https://keeper-test-2.herokuapp.com/health/level-master
 
 # runner: "[self-hosted, linux, x64]"
 
