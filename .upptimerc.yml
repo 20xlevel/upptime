@@ -21,12 +21,10 @@ sites:
     url: https://keeper-mainnet.herokuapp.com/health/expire-rate
   
   - name: Terminal API
-    url: https://terminal.level.finance/v101/health
+    url: https://terminal.level.finance/v2/health
   - name: Terminal Worker
-    url: https://terminal.level.finance/v101/worker/health
+    url: https://terminal.level.finance/v2/worker/health
 
-  - name: Testnet keeper balance
-    url: https://keeper-test-2.herokuapp.com/health/executor
 
 # runner: "[self-hosted, linux, x64]"
 
