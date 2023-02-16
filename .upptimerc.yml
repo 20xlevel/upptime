@@ -5,10 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Price API
     url: https://api.level.finance/health
-  - name: Price Aggregator
-    url: http://api.level.finance/health/aggregator
-  - name: Price fetcher
-    url: http://api.level.finance/health/fetcher
   - name: BSC keeper balance
     url: https://keeper-mainnet.herokuapp.com/health/executor
   - name: BSC price feed
