@@ -17,9 +17,9 @@ sites:
     url: https://keeper-mainnet.herokuapp.com/health/expire-rate
   
   - name: Terminal API
-    url: https://terminal.level.finance/v3/health
+    url: https://terminal.level.finance/v4/health
   - name: Terminal Worker
-    url: https://terminal.level.finance/v3/worker/health
+    url: https://terminal.level.finance/v4/worker/health
 
 
 # runner: "[self-hosted, linux, x64]"
