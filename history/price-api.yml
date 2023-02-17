@@ -1,7 +1,7 @@
 url: https://api.level.finance/health
-status: up
-code: 200
-responseTime: 989
-lastUpdated: 2023-02-17T09:50:26.886Z
+status: down
+code: 502
+responseTime: 804
+lastUpdated: 2023-02-17T14:24:24.521Z
 startTime: Sat Dec 17 2022 14:02:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
